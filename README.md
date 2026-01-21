@@ -3,7 +3,7 @@
 Ecommerce admin
 
 
-admin-panel/
+<!-- admin-panel/
 ├── app/
 │   ├── routes/
 │   │   ├── __root.tsx                    # Root layout with auth wrapper
@@ -290,4 +290,4 @@ admin-panel/
 ├── tsconfig.json
 ├── package.json
 ├── vite.config.ts
-└── README.md
+└── README.md -->
